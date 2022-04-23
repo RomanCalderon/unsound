@@ -3657,7 +3657,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bc481a04afd114cba900c3ea977a1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  toggleWindowKey: 109
+  toggleWindowKey: 27
   microphoneCapture: {fileID: 571644683}
   dissonanceComms: {fileID: 571644682}
   currentDevice:

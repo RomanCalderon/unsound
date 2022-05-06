@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 612e70f49e5124da0a95111a57250300, type: 3}
   m_Name: DistanceFog_map-1
   m_EditorClassIdentifier: 
-  raymarchQuality: 16
+  raymarchQuality: 4
   raymarchMinStep: 0.1
   jittering: 0.04
   dithering: 0.175

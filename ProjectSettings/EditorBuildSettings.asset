@@ -8,10 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menus/main.unity
     guid: d4f7fb58068dc6940a330ee76416a333
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TestMaps/mirror-test/mirror-test.unity
     guid: 0eb0a89732f0dde4fb9593948debced3
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Maps/map-1/map-1.unity
     guid: 4e95e915208a67043963b1bcd07b1255
   m_configObjects:
